@@ -89,7 +89,7 @@ const Doodle = ({ icon: Icon, className, rotation, delay, size = 24, color = 'hs
 const ProfileSection = () => {
     // Define image paths relative to the public directory or source structure
     // Assuming images are moved to public/profile_images/
-    const imageBase = '/src/components/img/'; // Adjust if your build process differs
+    const imageBase = '/public/img/'; // Adjust if your build process differs
     const images = {
         gymSelfie: `${imageBase}manu_gym.jpg`,
         gradCloseUp: `${imageBase}manu_colacao.jpg`,

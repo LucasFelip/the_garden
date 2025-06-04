@@ -90,7 +90,7 @@ const HomeSection = () => {
                     >
                         <div className="p-1.5 bg-gradient-to-br from-amber-100 via-amber-50 to-amber-100">
                             <img
-                                src="/src/components/img/foto-formatura.jpg" // Ensure path is correct
+                                src="/public/img/foto-formatura.jpg" // Ensure path is correct
                                 alt="Lucas e Manu na formatura - um momento especial no jardim"
                                 className="w-full h-auto object-cover rounded-xl shadow-inner block"
                             />

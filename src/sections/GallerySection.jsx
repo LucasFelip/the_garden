@@ -4,7 +4,7 @@ import {Heart, Leaf, Camera, Flower} from 'lucide-react'; // Using garden-relate
 
 const GallerySection = () => {
     // Base path for images (ensure this matches your project structure, e.g., public/gallery_images/)
-    const imageBase = '/src/components/img/'; // Using the same base as ProfileSection for consistency
+    const imageBase = '/public/img/'; // Using the same base as ProfileSection for consistency
 
     // Updated gallery items using the provided image list
     const galleryItems = [
