@@ -62,7 +62,7 @@ const Footer = () => {
           <span className="opacity-0 group-hover:opacity-100 absolute -left-4 top-1/2 -translate-y-1/2 transition-opacity duration-300">
             <Key size={12} className="text-[hsl(var(--primary))]"/>
           </span>
-            © {new Date().getFullYear()} Feito com <Heart size={10} className="inline mx-0.5 text-red-500/90 fill-current"/> para Manu, por Lucas.
+            © {new Date().getFullYear()} ESTE LUGAR foi feito com <Heart size={10} className="inline mx-0.5 text-red-500/90 fill-current"/> para Manu, por Lucas.
             <span className="opacity-0 group-hover:opacity-100 absolute -right-4 top-1/2 -translate-y-1/2 transition-opacity duration-300">
              <Key size={12} className="text-[hsl(var(--primary))]"/>
           </span>
