@@ -24,7 +24,9 @@ Eu sei que a vida pode ser caótica, temos problemas e desafios, cada dia, cada 
 
 Esses meses foram intensos e desafiadores, mas teremos momentos de alegria e felicidade, como o dia em que nos encontramos. Quero que saiba que cada lágrima derramada foi um passo em direção ao nosso amor, e cada sorriso compartilhado é uma flor que desabrocha em nosso jardim.
 
-Espero que esta carta te faça sentir o quanto você é amada e valorizada. Que cada palavra aqui escrita seja um lembrete do nosso amor inabalável, da nossa força e da beleza que encontramos juntos. Você tem tantas lutas e estamos nessa transição, isso é algo que vamos passar juntos, para que possamos crescer e florescer. E mesmo quando o mundo quiser te partir, eu vou estar aqui, inteiro, te esperando, pronto para receber cada pedaço. Porque se você quiser se dar — então me dê. E eu te darei tudo em troca. Eu te amo, eu te adoro, eu te acelumdisperilosiuoso.
+Estou junto a você, desde a doença e na saúde, na alegria e na tristeza, na riqueza e na pobreza. Quero que saiba que você é a razão pela qual eu acordo todos os dias com um sorriso no rosto, mesmo quando tudo parece difícil. Você é a luz que ilumina meu caminho, a razão pela qual eu continuo lutando, mesmo quando tudo parece perdido.
+
+Espero que esta carta te faça sentir o quanto você é amada e valorizada. Que cada palavra aqui escrita seja um lembrete do nosso amor inabalável, da nossa força e da beleza que encontramos juntos. Você tem tantas lutas e estamos nessa transição, isso é algo que vamos passar juntos, para que possamos crescer e florescer. E mesmo quando o mundo quiser te partir, eu vou estar aqui, inteiro, te esperando, pronto para receber cada pedaço. Porque se você quiser se dar — então me dê. Esse é o nosso sétimo dia dos namorados, nosso N7. E eu te darei tudo em troca. Eu te amo, eu te adoro, eu te acelumdisperilosiuoso.
 `;
 
 const SecretSection = () => {
